@@ -1,0 +1,1 @@
+Optimal location is: 4 with avg distance 2.0
