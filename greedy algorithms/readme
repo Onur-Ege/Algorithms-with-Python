@@ -6,3 +6,5 @@ game continues until no coins remain, and the player with the highest total valu
 Design a greedy algorithm that determines the maximum possible amount of money a 
 player can guarantee to win if he/she moves first. Provide an example with the comment 
 blocks that the greedy algorithm you have developed fails to achieve the optimal result. 
+
+First line of the input files indicates the number of coins
