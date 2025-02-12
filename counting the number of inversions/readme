@@ -1,0 +1,3 @@
+Let 𝐴[0…𝑛 − 1] be an array of n real numbers. A pair (𝐴[𝑖], 𝐴[𝑗]) is said to be an inversion 
+if these numbers are out of order, i.e., 𝑖 < 𝑗 but 𝐴[𝑖] > 𝐴[𝑗]. 
+Design an O(nlogn)-time algorithm for counting the number of inversions. 
