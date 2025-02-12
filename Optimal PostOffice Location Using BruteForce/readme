@@ -1,0 +1,6 @@
+Let x1 < x2 < … xn be real numbers representing coordinates of n villages located along a 
+straight road. A post office needs to be built in one of these villages.  
+
+Design a brute-force algorithm that outputs the post-office location minimizing the average 
+distance between the villages and the post office. To verify that your algorithm is indeed a 
+brute-force solution, please use the print function.
