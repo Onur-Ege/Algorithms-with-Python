@@ -1,0 +1,7 @@
+Given an array representing the lengths of boards and an integer k, where k denotes the 
+number of painters available, the objective is to distribute the work among the painters such 
+that the maximum time any painter spends is minimized. Each unit length of a board requires 
+one unit of time to paint, and each painter can only work on a continuous segment of boards. 
+Devise a dynamic programming algorithm to determine the minimum time required to paint 
+all the boards. For the input array = [5, 10, 30, 20, 15] and k = 3, your algorithm should output 
+35.  
