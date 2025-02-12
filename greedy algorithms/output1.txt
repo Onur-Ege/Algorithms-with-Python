@@ -1,0 +1,1 @@
+Player 1's total score using greedy strategy: 24
