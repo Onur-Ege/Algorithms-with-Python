@@ -1,0 +1,2 @@
+Devise an O(nlogn)-time divide-and-conquer algorithm that takes a sequence of n integers 
+, outputs the maximum sum of any contiguous subsequence.  
