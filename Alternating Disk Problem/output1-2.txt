@@ -1,0 +1,1 @@
+Final disk positions ['L', 'L', 'L', 'L', 'L', 'D', 'D', 'D', 'D', 'D']
