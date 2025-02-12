@@ -1,0 +1,7 @@
+Given an array consisting of positive, distinct integers that represent the time it takes for 
+each of n people to cross a bridge. The group has only one torch, and crossing the bridge is 
+not possible without it. The bridge can accommodate a maximum of two people at a time, and 
+when two people cross together, they must move at the slower person’s pace. 
+
+Devise a dynamic programming algorithm to determine the minimum total time required for all 
+individuals to cross from one side of the bridge to the other. 
