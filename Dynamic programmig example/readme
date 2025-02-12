@@ -1,0 +1,10 @@
+Given a row of n coins with the values 𝑣1,…,𝑣𝑛 where n is even, consider a game played by 
+two players who alternate turns. In each turn, a player must select either the first or last coin 
+from the row, removes it from the row permanently, and collects the value of the coin. The 
+game continues until no coins remain, and the player with the highest total value wins.
+
+Design a dynamic programming that determines the maximum possible amount of money 
+a player can guarantee to win if he/she moves first. Discuss the time complexity of your 
+algorithm with the comment blocks.  
+
+First line of the input files indicates the number of coins 
